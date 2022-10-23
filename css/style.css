@@ -1,0 +1,18 @@
+* {
+  font-family: 'Times New Roman', Times, serif; 
+  font-size: 14px;
+}
+
+body, html {
+  width: auto;
+  background-color: rgb(223, 206, 240);
+  color: rgb(71, 38, 102);
+  overflow-x: hidden;
+  box-sizing: border-box; 
+}
+
+.container {
+  margin: 0 20px 0 20px;
+  background-color: aliceblue;
+  box-shadow: 10px 10px 10px 10px rgb(172, 219, 203);
+}
