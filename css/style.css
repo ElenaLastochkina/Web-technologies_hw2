@@ -16,3 +16,16 @@ body, html {
   background-color: aliceblue;
   box-shadow: 10px 10px 10px 10px rgb(172, 219, 203);
 }
+.menu, ul {
+    display: flex;
+    padding: 8px 20px;
+    flex-direction: row;
+    height: 100%;
+    list-style-type: none;
+    text-align: center;
+    width: auto;
+    margin: 10px -17px;
+}
+li{
+    margin: 0 54px;
+}
